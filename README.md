@@ -1,0 +1,1 @@
+# patterns-of-enterprise-architecture-examples
